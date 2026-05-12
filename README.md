@@ -55,23 +55,11 @@
 
   | Project | Stack | What it is |
   |---|---|---|
-  | 🛒 **[Archivo Deportivo](https://www.archivodeportivo.com.ar/)** | React · Node · PostgreSQL · MercadoPago | Football jerseys e-commerce with admin panel
-  and automated supplier sync |
+  | 🛒 **[Archivo Deportivo](https://www.archivodeportivo.com.ar/)** | React · Node · PostgreSQL · MercadoPago | Football jerseys e-commerce with admin panel and automated supplier sync |
   | 🎲 **[Estratagema](https://estratagema.vercel.app/)** | Next.js · React · Tailwind | Board game store in Santa Fe — 500+ products, events and tournaments |  | 🎮 **[Toyo Esports](https://toyoesports.com/)** | React · Framer Motion · Tailwind | Professional esports team landing with gaming-first design |
   | 🎯 **[Lead Generator](https://github.com/FranSchlatter/leadGenerator)** | Python · Claude AI · Google Maps API | B2B prospecting tool that classifies leads   with AI and exports to Excel |
   | 🏨 **[InnovaTech Demos](https://innovatech.ar)** | React · Vite · Tailwind | Industry-specific web app demos: hospitality, gastronomy and health |
   | 🚀 **[InnovaTech](https://innovatech.ar)** | React · i18n · Framer Motion | The studio's portfolio site — bilingual, themed, fully responsive |
-
-  ---
-
-  ### GitHub stats
-
-  <div align="center">
-
-  ![Fran's GitHub
-  stats](https://github-readme-stats.vercel.app/api?username=FranSchlatter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FranSchlatter&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-  </div>
 
   ---
 
